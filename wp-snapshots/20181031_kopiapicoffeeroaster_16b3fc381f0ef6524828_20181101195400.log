@@ -1,0 +1,79 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: November 1, 2018 7:54 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.52
+WORDPRESS:	4.9.8
+PHP INFO:	7.2.8 | SAPI: apache2handler
+SERVER:		Apache/2.2.34 (Unix) mod_wsgi/3.5 Python/2.7.13 PHP/7.2.8 mod_ssl/2.2.34 OpenSSL/1.0.2o DAV/2 mod_fastcgi/mod_fastcgi-SNAP-0910052141 mod_perl/2.0.9 Perl/v5.24.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 20MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20181031_kopiapicoffeeroaster_16b3fc381f0ef6524828_20181101195400_database.sql 
+SQL FILE SIZE: 1.01MB (1056230) 
+SQL FILE TIME: 2018-11-01 19:54:04 
+SQL RUNTIME: 0.48 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/kopiapi_cms 
+ARCHIVE FILE: 20181031_kopiapicoffeeroaster_16b3fc381f0ef6524828_20181101195400_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	74.03MB 
+STATS:	Dirs 264 | Files 2,258 
+SQL ADDED: 20181031_kopiapicoffeeroaster_16b3fc381f0ef6524828_20181101195400_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2522
+    [filename] => /Applications/MAMP/htdocs/kopiapi_cms/wp-snapshots/tmp/20181031_kopiapicoffeeroaster_16b3fc381f0ef6524828_20181101195400_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 48.38MB 
+ARCHIVE RUNTIME: 8.00 sec. 
+MEMORY STACK: 20MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preparing for use 
+PACK SIZE:  
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/kopiapi_cms/wp-snapshots/tmp/20181031_kopiapicoffeeroaster_16b3fc381f0ef6524828_20181101195400_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.01MB 
+Installer File: 514.2KB 
+Archive File: 48.38MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 9.24 sec.
+PEAK PHP MEMORY USED: 22MB
+DONE PROCESSING => 20181031_kopiapicoffeeroaster November 1, 2018 7:54 pm
+ 
